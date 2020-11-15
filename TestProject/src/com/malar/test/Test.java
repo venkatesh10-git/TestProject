@@ -10,5 +10,11 @@ public class Test {
 	{
 		
 	}
+	
+	public void testConflict()
+	{
+		int i =10;
+	}
+
 }
 
