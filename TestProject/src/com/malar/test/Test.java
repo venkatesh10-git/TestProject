@@ -7,11 +7,7 @@ public class Test {
 	}
 	
 	
-	
-	public void testConflict()
-	{
-		int i =10;
-	}
+
 
 	public void testnew()
 	{
