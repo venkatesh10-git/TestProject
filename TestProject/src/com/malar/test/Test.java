@@ -6,5 +6,9 @@ public class Test {
 		
 	}
 
+	public void testnew()
+	{
+		
+	}
 }
 
